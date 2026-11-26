@@ -4,6 +4,9 @@
 **Also known as:** Rascof  
 **Project:** ATOMO — dynamic thermal simulation and analysis of buildings
 
+![Interface ATOMO](docs/screenshots/atomo-interface.png)
+*Interface web d'ATOMO — éditeur 2D, visualisation 3D et simulation thermique.*
+
 This repository brings together the calculation codes and software tools developed as part of my doctoral research (2015–2019), along with a substantially updated, open-source-oriented version of the original ATOMO tool.
 
 The original research work focused on building thermal simulation, the use of weather and architectural data, sensitivity analysis, and the comparison of simulated results with measurements. The software has since been refactored and extended using open-source technologies and libraries. The current ATOMO application is a web-based tool built with PHP, JavaScript, and MySQL/MariaDB.
